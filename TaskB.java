@@ -1,5 +1,9 @@
 import java.io.*;
 
+/*
+ * This is nested for loop inside another for loop
+ */
+
 public class TaskB {    
     public static void main(String[] args) throws IOException
     {
